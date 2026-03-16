@@ -26,3 +26,21 @@ This project is a web application built using ASP.NET Web Forms and C#. It conne
 ## Author
 Odiel Marroquin
 Computer Science Student
+
+## Screenshots
+
+### Homepage
+![Homepage](screenshots/homepage.jpg)
+
+### Register page
+![Register](screenshots/register.jpg)
+
+### Login page
+![Login](screenshots/login.jpg)
+
+### Books Page (Protected Content)
+![Books Page](screenshots/books-page.jpg)
+
+### User Account Management
+![User Logged in](screenshots/user-logged-in.jpg)
+
